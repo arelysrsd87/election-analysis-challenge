@@ -31,6 +31,8 @@ The candidates were:
   - Candidate Raymon Anthony DOane received 3.1% of the vote and 11, 606 number of votes.
 - The winner of the election was:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272, 892 number of votes.
+![Election_Results](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/Election_Analysis/Election_Results.txt)  
+
 # Election-Audit Summary
 Modifying this code we can further analyze how each candidate performed on each county.
 Additionally, we can further analyze how
