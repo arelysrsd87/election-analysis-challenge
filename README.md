@@ -12,11 +12,11 @@ A Colorado Board of Elections has given us the following tasks to complete the e
 
 ## Resources
 - Data Source: election_results.csv
-- Sotware: Python 3.6.1, Visual COde, 1.38.1
+- Sotware: Python 3.6.1, Visual Code, 1.38.1
 
 # Code
-- Below is the code use to analyze the elections with comments explaining each code line.
-![PyPoll_Challenge_starter_code.py](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/PyPoll_Challenge_starter_code.py)
+- The code used to analyze the elections with comments explaining each code line can be found here:
+[PyPoll_Challenge_starter_code.py](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/PyPoll_Challenge_starter_code.py)
 
 # Election-Audit Results
 - There were 369, 711 votes cast in the election.
@@ -25,7 +25,7 @@ A Colorado Board of Elections has given us the following tasks to complete the e
   - Denver county received 82.8% of the vote and 306,055 number of votes.
   - Arapahoe county received 6.7% of the vote and 24,801 number of votes.
 - The county with the largest turnout was Denver.
-The candidates were: 
+- The candidates were: 
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
@@ -36,10 +36,11 @@ The candidates were:
 - The winner of the election was:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272, 892 number of votes.
  
-![Election_Results.txt](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/Election_Analysis/Election_Results.txt)  
+![Election_Results.png](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/Election_Results.png)  
 
 # Election-Audit Summary
-- We propose modifying this code by analyzing how each candidate performed on each county. This will expand the versatibility of this code to be used for national elections to determine who won the popular vote on each county and state.
-- Alternatively, the code can be modified by analyzing how each county contributed to each candidate's total vote. This will expand the versability of this code to be used by each candidate's campaign to see where their campaign perfomerd best.
+-This code is versatile and can be used for any election. Assuming we get .csv file with the same type of information (ballot ID, county and candidate name) for other states, this code can be used for any regional election.
+- Upor further modifying the code, it could analyze how each candidate performed on each county. This will expand the versatility of the code to be used for national elections to determine who won the popular vote on each county.
+- Alternatively, the code can be modified by analyzing how each county contributed to each candidate's total vote. This will expand the versatility of this code to be used by each candidate's campaign to see where their campaign perfomerd best.
 
 
