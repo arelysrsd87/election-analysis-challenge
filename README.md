@@ -39,7 +39,7 @@ A Colorado Board of Elections has given us the following tasks to complete the e
 ![Election_Results.png](https://github.com/arelysrsd87/election-analysis-challenge/blob/main/Election_Results.png)  
 
 # Election-Audit Summary
--This code is versatile and can be used for any election. Assuming we get .csv file with the same type of information (ballot ID, county and candidate name) for other states, this code can be used for any regional election.
+- This code is versatile and can be used for any election. Assuming we get .csv file with the same type of information (ballot ID, county and candidate name) for other states, this code can be used for any regional election.
 - Upor further modifying the code, it could analyze how each candidate performed on each county. This will expand the versatility of the code to be used for national elections to determine who won the popular vote on each county.
 - Alternatively, the code can be modified by analyzing how each county contributed to each candidate's total vote. This will expand the versatility of this code to be used by each candidate's campaign to see where their campaign perfomerd best.
 
